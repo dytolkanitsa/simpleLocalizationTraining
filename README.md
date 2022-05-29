@@ -1,2 +1,3 @@
 # simpleLocalizationTraining
-🌎🌍🌏 localization using Strinddict
+
+Plurals localization using Stringsdict in iOS
