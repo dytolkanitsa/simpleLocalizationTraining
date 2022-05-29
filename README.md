@@ -1,0 +1,2 @@
+# simpleLocalizationTraining
+🌎🌍🌏 localization using Strinddict
